@@ -1,4 +1,4 @@
-![Hollow Knight](aula-7-desafios/images/hollow_resized-removebg-preview.png)
+![Hollow Knight](/aula-7-desafios/Cartao/images/contactless.png)
 
 # Desafio Aula 7
 
