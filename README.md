@@ -1,5 +1,3 @@
-![Hollow Knight](/aula-7-desafios/Cartao/images/contactless.png)
-
 # Desafio Aula 7
 
 Bem-vindo ao Desafio da Aula 7! Este repositório contém os resultados dos três desafios propostos durante a aula. Vamos dar uma olhada em cada um deles:
